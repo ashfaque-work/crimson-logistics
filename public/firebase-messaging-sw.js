@@ -2,10 +2,10 @@ importScripts('https://www.gstatic.com/firebasejs/8.3.2/firebase-app.js');
 importScripts('https://www.gstatic.com/firebasejs/8.3.2/firebase-messaging.js');
    
 firebase.initializeApp({
-    apiKey: "AIzaSyDgblX1tDnPJNGNSWSbdYXuW2QWQmUIr3U",
-    projectId: "elite-medical-staffing-group",
-    messagingSenderId: "223545565085",
-    appId: "1:223545565085:web:cabed0064d42f267bd9974"
+    apiKey: "",
+    projectId: "",
+    messagingSenderId: "",
+    appId: ""
 });
   
 
